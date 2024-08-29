@@ -30,5 +30,5 @@ main: Função principal que gerencia a lógica do jogo, movimentação das peç
 
 Este projeto foi desenvolvido por:
 
-Daiene dos Santos Costas
+Daiene dos Santos Costas <br>
 Maria Luisa De Castro Ferreira
